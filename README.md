@@ -1,2 +1,2 @@
 # toxicity-analysis-nlp
-Repository with toxicity analysis .ipynb notebook
+Repository with toxicity analysis bot in Telegram Messenger chat
